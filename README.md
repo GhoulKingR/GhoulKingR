@@ -57,7 +57,7 @@
 		<!-- <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
 			<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" >
 		</a> -->
-		<a style="margin-left: 5px;" target="_blank" href="./Resume.pdf">
+		<a style="margin-left: 5px;" target="_blank" href="https://docs.google.com/document/d/1hVJ4_qfOelQ8jKrc7OPd9aE3vW3f7vh901le4ww-sj8/edit?usp=sharing">
 			<img src="https://img.icons8.com/plasticine/0.5x/resume.png" >
 		</a>
 	</div>
