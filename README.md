@@ -15,13 +15,29 @@
 
 <br>
 
-- Diverse Technical Skills: Proficient in a wide range of programming languages including Golang, C#, Rust, Java, HTML, CSS, JavaScript, Python, and more. Experienced with frameworks such as .Net, React, Vue, Django, Flask, and Laravel.
-- Extensive Toolset: Skilled in utilizing various development tools like Git, GitHub, Postman, Heroku, Figma, Docker, Jupyter, AWS, Azure, and GCP. Familiarity with CI/CD pipelines using Jenkins, GitLab CI/CD, and Travis CI.
-- Versatile Development Skills: Possess expertise in technical writing, web development, research, testing, blockchain (Web3), machine learning, artificial intelligence, data science, and mobile development.
-- Professional Experience: Demonstrated success as a Technical Content Manager, Freelance Technical Writer, and Frontend Developer. Accomplishments include improving clients' online presence, optimizing software documentation, and driving traffic through engaging content creation.
-- Impactful Contributions: Proven ability to enhance brand visibility, streamline processes, and increase engagement through comprehensive technical articles, tutorials, and guides. Skilled at transforming video content into written form for wider reach and understanding.
-- Collaboration and Communication: Experience collaborating closely with design teams, back-end developers, and stakeholders to deliver visually stunning and user-friendly web applications. Strong communication skills demonstrated through active participation in meetings and code reviews.
-- Continuous Learning and Adaptability: Enthusiastic learner with a willingness to embrace new technologies and tools. Experience in cloud engineering, product management, CI/CD, and UI/UX design, showcasing adaptability and versatility.
+<ul>
+	<li>
+		Diverse Technical Skills: Proficient in a wide range of programming languages including Golang, C#, Rust, Java, HTML, CSS, JavaScript, Python, and more. Experienced with frameworks such as .Net, React, Vue, Django, Flask, and Laravel.
+	</li>
+	<li>
+		Extensive Toolset: Skilled in utilizing various development tools like Git, GitHub, Postman, Heroku, Figma, Docker, Jupyter, AWS, Azure, and GCP. Familiarity with CI/CD pipelines using Jenkins, GitLab CI/CD, and Travis CI.
+	</li>
+	<li>
+		Versatile Development Skills: Possess expertise in technical writing, web development, research, testing, blockchain (Web3), machine learning, artificial intelligence, data science, and mobile development.
+	</li>
+	<li>
+		Professional Experience: Demonstrated success as a Technical Content Manager, Freelance Technical Writer, and Frontend Developer. Accomplishments include improving clients' online presence, optimizing software documentation, and driving traffic through engaging content creation.
+	</li>
+	<li>
+		Impactful Contributions: Proven ability to enhance brand visibility, streamline processes, and increase engagement through comprehensive technical articles, tutorials, and guides. Skilled at transforming video content into written form for wider reach and understanding.
+	</li>
+	<li>
+		Collaboration and Communication: Experience collaborating closely with design teams, back-end developers, and stakeholders to deliver visually stunning and user-friendly web applications. Strong communication skills demonstrated through active participation in meetings and code reviews.
+	</li>
+	<li>
+		Continuous Learning and Adaptability: Enthusiastic learner with a willingness to embrace new technologies and tools. Experience in cloud engineering, product management, CI/CD, and UI/UX design, showcasing adaptability and versatility.
+	</li>
+</ul>
 
 <br><br>
 
