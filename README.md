@@ -48,13 +48,13 @@ In this section, I’ll provide a link to all my blog author profiles (paid and 
 
 - [LogRocket](https://blog.logrocket.com/author/oduahchigozie/)
 - [freeCodeCamp](https://www.freecodecamp.org/news/author/chigozie/)
+- [Hashnode](https://ghoulkingr.hashnode.dev/)
+- [Medium](https://medium.com/@GhoulKingR)
+- [Dev.to](https://dev.to/ghoulkingr)
 <!--
 - Solace
 - Strapi
 -->
-- [Hashnode](https://ghoulkingr.hashnode.dev/)
-- [Medium](https://medium.com/@GhoulKingR)
-- [Dev.to](https://dev.to/ghoulkingr)
 ## Contact Me
 
 Want to contact me? Here are my contacts and social profiles:
