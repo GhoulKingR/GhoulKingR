@@ -1,65 +1,68 @@
+# <picture><img src = "./about_me.gif" width = 50px></picture> Chigozie Oduah
+I’m a Software Engineer and Technical Writer.
 
-<h1 align="center"><b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Chigozie Oduah </b></h1>
+## Preferred tools
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=2000&center=true&vCenter=true&width=561&lines=Self-taught;Passionate+about+the+power+of+documentation;Skilled+in+crafting+compelling+code+narratives" alt="Typing SVG" /></a>
-</p>
+This section contains a list of the programming languages, tools, platforms, frameworks, libraries, and databases I love to work with (in no particular order):
 
+- Programming languages:
+    - [JavaScript](https://www.javascript.com)
+    - [TypeScript](https://www.typescriptlang.org)
+    - [Java](https://www.java.com/en/)
+    - [Rust](https://www.rust-lang.org)
+    - [Python](https://www.python.org)
+    - [Golang](https://go.dev)
+- Frameworks:
+    - [Django](https://www.djangoproject.com)
+    - [Flask](https://flask.palletsprojects.com/en/3.0.x/)
+    - [React](https://react.dev)
+    - [Vue](https://vuejs.org)
+    - [Svelte](https://svelte.dev)
+    - [Express](https://expressjs.com)
+- Libraries:
+    - [Tensorflow](https://www.tensorflow.org)
+    - [Scikit-learn](https://scikit-learn.org/stable/)
+- Databases:
+    - [MongoDB](https://www.mongodb.com)
+    - [Firestore](https://firebase.google.com/docs/firestore)
+    - [SQLite](https://www.sqlite.org/index.html)
+- Platforms:
+    - [Postman](https://www.postman.com)
+    - [Swagger](https://swagger.io)
+    - [Trello](https://trello.com)
+    - [Slack](https://slack.com)
+    - [Figma](https://www.figma.com/login)
+    - [Google Docs](https://www.google.com/docs/about/)
+    - [Dropbox Paper](https://www.dropbox.com/paper/home?role=personal)
+    - [GitBook](https://www.gitbook.com)
+    - [Vercel](https://vercel.com)
+- Tools:
+    - [Node](https://nodejs.org)
+    - [GraphQL](https://graphql.org)
 
-<br>
+This list does not cover every tool I have experience working with. The list does not include tools I have had a frustrating experience using, tools I would not like to work with, and tools that I have no experience working with.
 
+## Articles
 
-## <picture><img src = "./about_me.gif" width = 50px></picture> **About me**
+In this section, I’ll provide a link to all my blog author profiles (paid and not paid):
 
-<picture><img align="right" top="500" height="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></picture>
+- [LogRocket](https://blog.logrocket.com/author/oduahchigozie/)
+- [freeCodeCamp](https://www.freecodecamp.org/news/author/chigozie/)
+- [Hashnode](https://ghoulkingr.hashnode.dev/)
+- [Medium](https://medium.com/@GhoulKingR)
+- [Dev.to](https://dev.to/ghoulkingr)
+<!--
+- Solace
+- Strapi
+-->
+## Contact Me
 
-<br>
+Want to contact me? Here are my contacts and social profiles:
 
-* Diverse Technical Skills: Proficient in various programming languages, including Golang, C#, Rust, Java, HTML, CSS, JavaScript, Python, and more. I have experience with frameworks like .Net, React, Vue, Django, Flask, and Laravel.
-* Extensive Toolset: Skilled in utilizing various development tools like Git, GitHub, Postman, Heroku, Figma, Docker, Jupyter, AWS, Azure, and GCP. Familiarity with CI/CD pipelines using Jenkins, GitLab CI/CD, and Travis CI.
-* Versatile Development Skills: Possess expertise in technical writing, web development, research, testing, blockchain (Web3), machine learning, artificial intelligence, data science, and mobile development.
-* Professional experience: I demonstrated success as a Technical Content Manager, Freelance Technical Writer, and Frontend Developer. Accomplishments include improving clients' online presence, optimizing software documentation, and driving traffic through engaging content creation.
-* Impactful Contributions: Proven ability to enhance brand visibility, streamline processes, and increase engagement through comprehensive technical articles, tutorials, and guides. I am skilled at transforming video content into written form for broader reach and understanding.
-* Collaboration and Communication: I have experience collaborating closely with design teams, back-end developers, and stakeholders to deliver visually stunning and user-friendly web applications. Strong communication skills demonstrated through active participation in meetings and code reviews.
-* Continuous Learning and Adaptability: Enthusiastic learner willing to embrace new technologies and tools. Experience in cloud engineering, product management, CI/CD, and UI/UX design, showcasing adaptability and versatility.
+- [X (Twittter)](https://x.com/GhoulKingR)
+- [GitHub (here)](https://github.com/GhoulKingR)
+- [LinkedIn](https://www.linkedin.com/in/chigozie-o)
+- WhatsApp - +2349058624493
 
-<br><br>
-
-## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> **My Contributions**
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheGhoulRe/TheGhoulRe/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheGhoulRe/TheGhoulRe/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/TheGhoulRe/TheGhoulRe/output/github-contribution-grid-snake.svg" />
-</picture>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> **Connect with me**
-
-<p align="center">
-	<div align="center"  class="icons-social" style="margin-left: 10px;">
-		<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/chigozie-o/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
-		</a>
-<!-- 		<a style="margin-left: 10px;" target="_blank" href="https://github.com/GhoulKingR">
-			<img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-		</a> -->
-		<!-- <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-			<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
-		</a> -->
-		<a style="margin-left: 10px;" target="_blank" href="https://linktr.ee/ghoulkingr">
-			<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png">
-		</a>
-		<!-- <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
-		</a> -->
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/GhoulKingR">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" >
-		</a>
-		<!-- <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-			<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" >
-		</a> -->
-		<a style="margin-left: 5px;" target="_blank" href="https://docs.google.com/document/d/1hVJ4_qfOelQ8jKrc7OPd9aE3vW3f7vh901le4ww-sj8/edit?usp=sharing">
-			<img src="https://img.icons8.com/plasticine/0.5x/resume.png" >
-		</a>
-	</div>
-</p>
+Feel free to stalk me on my socials, or shoot me a DM 😉
 
