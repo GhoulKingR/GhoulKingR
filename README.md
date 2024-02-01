@@ -1,4 +1,4 @@
-# Chigozie Oduah
+# <picture><img src = "./about_me.gif" width = 50px></picture> Chigozie Oduah
 I’m a Software Engineer and Technical Writer.
 
 ## Preferred tools
