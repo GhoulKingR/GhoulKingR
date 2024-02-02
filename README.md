@@ -42,27 +42,15 @@ This section contains a list of the programming languages, tools, platforms, fra
 
 This list does not cover every tool I have experience working with. The list does not include tools I have had a frustrating experience using, tools I would not like to work with, and tools that I have no experience working with.
 
-## Articles
 
-In this section, I’ll provide a link to all my blog author profiles (paid and not paid):
+## Links
 
-- [LogRocket](https://blog.logrocket.com/author/oduahchigozie/)
-- [freeCodeCamp](https://www.freecodecamp.org/news/author/chigozie/)
-- [Hashnode](https://ghoulkingr.hashnode.dev/)
-- [Medium](https://medium.com/@GhoulKingR)
-- [Dev.to](https://dev.to/ghoulkingr)
-<!--
-- Solace
-- Strapi
--->
-## Contact Me
-
-Want to contact me? Here are my contacts and social profiles:
+This section contains links that I want to include:
 
 - [X (Twittter)](https://x.com/GhoulKingR)
 - [GitHub (here)](https://github.com/GhoulKingR)
 - [LinkedIn](https://www.linkedin.com/in/chigozie-o)
-- WhatsApp - +2349058624493
+- [Articles](/Articles.md)
 
 Feel free to stalk me on my socials, or shoot me a DM 😉
 
