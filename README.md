@@ -50,7 +50,7 @@ This section contains links that I want to include:
 - [X (Twittter)](https://x.com/GhoulKingR)
 - [GitHub (here)](https://github.com/GhoulKingR)
 - [LinkedIn](https://www.linkedin.com/in/chigozie-o)
-- [Articles](/Articles.md)
+- [My Articles](/Articles.md)
 
 Feel free to stalk me on my socials, or shoot me a DM 😉
 
