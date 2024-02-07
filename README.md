@@ -1,6 +1,11 @@
 # <picture><img src = "./about_me.gif" width = 50px></picture> Chigozie Oduah
 I’m a Software Engineer and Technical Writer.
 
+[![X](https://img.shields.io/badge/x-GhoulKingR-000000?style=plastic&logo=x&logoColor=white)](https://x.com/GhoulKingR)
+[![GitHub](https://img.shields.io/badge/GitHub-GhoulKingR-181717?style=plastic&logo=GitHub&logoColor=white)](https://github.com/GhoulKingR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chigozie%20Oduah-0A66C2?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chigozie-o)
+[My Articles](/Articles.md)
+
 ## Preferred tools
 
 This section contains a list of the programming languages, tools, platforms, frameworks, libraries, and databases I'm comfortable working with. These are not every tool I have experience working with.
@@ -44,15 +49,3 @@ This section contains a list of the programming languages, tools, platforms, fra
 ### Tools
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQl&logoColor=white)](https://graphql.org)
-
-## Links
-
-This section contains links that I want to include:
-
-- [X (Twittter)](https://x.com/GhoulKingR)
-- [GitHub (here)](https://github.com/GhoulKingR)
-- [LinkedIn](https://www.linkedin.com/in/chigozie-o)
-- [My Articles](/Articles.md)
-
-Feel free to stalk me on my socials, or shoot me a DM 😉
-
