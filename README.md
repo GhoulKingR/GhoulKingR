@@ -19,12 +19,12 @@ I’m a Software Engineer and Technical Writer.
 This section contains a list of the programming languages, tools, platforms, frameworks, libraries, and databases I'm comfortable working with. These are not every tool I have experience working with.
 
 ### Programming languages
-[JavaScript](https://www.javascript.com)
-[TypeScript](https://www.typescriptlang.org)
-[Java](https://www.java.com/en/)
-[Rust](https://www.rust-lang.org)
-[Python](https://www.python.org)
-[Golang](https://go.dev)
+[![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com)
+[![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Java](https://img.shields.io/badge/java-437291?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
+[![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
+[![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
 
 ### Frameworks
 [Django](https://www.djangoproject.com)
