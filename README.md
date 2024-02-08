@@ -27,12 +27,12 @@ This section contains a list of the programming languages, tools, platforms, fra
 [![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
 
 ### Frameworks
-[Django](https://www.djangoproject.com)
-[Flask](https://flask.palletsprojects.com/en/3.0.x/)
-[React](https://react.dev)
-[Vue](https://vuejs.org)
-[Svelte](https://svelte.dev)
-[Express](https://expressjs.com)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)](https://www.djangoproject.com)
+[![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
+[![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vuedotjs&logoColor=white)](https://vuejs.org)
+[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white)](https://svelte.dev)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)](https://expressjs.com)
 
 ### Libraries
 [Tensorflow](https://www.tensorflow.org)
