@@ -35,13 +35,13 @@ This section contains a list of the programming languages, tools, platforms, fra
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)](https://expressjs.com)
 
 ### Libraries
-[Tensorflow](https://www.tensorflow.org)
-[Scikit-learn](https://scikit-learn.org/stable/)
+[![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 
 ### Databases
-[MongoDB](https://www.mongodb.com)
-[Firestore](https://firebase.google.com/docs/firestore)
-[SQLite](https://www.sqlite.org/index.html)
+[![MongoDB](https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=Mongodb&logoColor=white)](https://www.mongodb.com)
+[![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/docs/firestore)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)](https://www.sqlite.org/index.html)
 
 ### Platforms
 [Postman](https://www.postman.com)
