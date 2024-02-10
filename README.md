@@ -53,6 +53,7 @@ This section contains a list of the programming languages, tools, platforms, fra
 [Dropbox Paper](https://www.dropbox.com/paper/home?role=personal)
 [GitBook](https://www.gitbook.com)
 [Vercel](https://vercel.com)
+[Firebase]()
 
 ### Tools
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
